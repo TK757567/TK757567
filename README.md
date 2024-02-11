@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohannad handoumeh
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning reverse engineering and binary exploitation
+- 👀 I’m interested in CyberSecurity in general and working as an Offensive Security Consultant
+- 🌱 Cybersecurity is a universe; every galaxy has its own set of threats, vulnerabilities, and defenses, shaping its unique digital landscape.
 - 📫 How to reach me `mohannad.handoumeh@gmail.com`
 
 <!---
