@@ -1,4 +1,4 @@
-Hi, I’m Mohannad handoumeh, I’m an Offensive Security Consultant and co-founder of team PwnSec. PwnSec is a CTF team created in 2022 2nd in jordan in CTFtime.
+Hi, I’m Mohannad handoumeh, Pentester and co-founder of team PwnSec. PwnSec is a CTF team created in 2022 2nd in jordan in CTFtime.
 - Interseted in exploiting things.
 - pentesting.
 - reverse engineering.
