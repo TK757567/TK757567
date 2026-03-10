@@ -54,4 +54,4 @@ I specialize in breaking, analyzing, and securing complex systems. My work focus
 ---
 
 **Connect with me:**
-[LinkedIn](YOUR_LINK_HERE) | [Medium](YOUR_LINK_HERE) | [Twitter/X](YOUR_LINK_HERE)
+[LinkedIn](https://www.linkedin.com/in/mohannad-handomeh/) | [Medium](https://medium.com/@Handoumeh)
